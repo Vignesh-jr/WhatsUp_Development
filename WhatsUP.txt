@@ -21,8 +21,8 @@ Author: Arulprasath
 9. Adding options to create groups upto 200 users.
 
 10. Adding new feature
-11. Connecting people
 
+11. Connecting people
 
 11. Block the spam users.
 
@@ -32,4 +32,6 @@ Author: Arulprasath
 
 14.Adding new feature in status Hiding
 
+15.Adding Refer friend and earn.
 
+16.Adding archive chat.
